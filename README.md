@@ -4,6 +4,7 @@
  <a href="https://discord.gg/Fjwnh4ygPZ">
  <img src="https://img.shields.io/discord/1074928203820441610?label=Discord&style=flat-square"</img></a>
 </div>
+
 # Better-COC
 ## [Discord](https://discord.gg/Fjwnh4ygPZ)
 A gorilla tag mod that adjusts the COC.
