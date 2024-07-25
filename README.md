@@ -6,5 +6,6 @@
 </div>
 
 # Better-COC
-## [Discord](https://discord.gg/Fjwnh4ygPZ)
-A gorilla tag mod that adjusts the COC.
+## A gorilla tag mod that adjusts the COC.
+## <i>Installation</i>
+Download the latest release DLL or zip [here](https://github.com/sevisadev/Better-COC/releases/latest). You will need Bepinex installed, this mod only requires utila with can be found in Monke Mod Manger!
